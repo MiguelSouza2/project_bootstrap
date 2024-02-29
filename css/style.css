@@ -1,0 +1,13 @@
+#div-1{
+    background-color:rgb(0, 95, 179);
+}
+
+#lista_palavras{
+    position: fixed;
+    background-color: #f1b9b9;
+    border-radius: 10px;
+    width: min-content;
+    right: 0.1vw;
+    bottom: 0.1vw;
+    display: block;
+}
